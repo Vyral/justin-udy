@@ -25,7 +25,7 @@ If you’re feeling the effects of the winter inversion in our area, I have a fe
 
 First, let’s recap what the winter inversion is. You see, air quality is often best in the wintertime when the weather works to clean the air, trapping ozone and other pollutants in precipitation or blowing them off with sharp, gusty winds. As the inversion goes on, this trapped air begins to stagnate, and the concentration of fine particle pollutants in the air, emitted by the consumption of fossil fuels in vehicles, power plants, and factories, increases. An extended period of inversion sometimes results in the formation of a brownish fog.
 
-The first thing you can do to minimize the effects of the winter inversion is visit **www.air.utah.gov to check the air quality in your area on any given day.** 
+The first thing you can do to minimize the effects of the winter inversion is visit **www.air.utah.gov to check the air quality in your area on any given day.**&nbsp;
 
 {% include pullquote.html %}
 
@@ -33,9 +33,7 @@ Second, if you’re like me and you prefer to exercise outside, **try doing it d
 
 There are several tips you can try that will also help the environment at large, including:
 
- 
-
-* Not burning trash 
+* Not burning trash&nbsp;
 * Recycling
 * Carpooling
 * Turning off your car when you’re waiting to pick up your kids from school
