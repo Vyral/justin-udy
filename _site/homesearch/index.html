@@ -62,17 +62,13 @@
 
 	<body>
 		
-		<style>
-video{
-  max-width: 100%;
-  height: auto;
-  margin-top: 50px;
-}
-</style>
-<header id="hero">
-  <video autoplay="autoplay" muted controls="controls" id="bgvideo">
-    <source src="/uploads/hero.mp4" type="video/mp4">
-  </video>
+		<header id="hero">
+<div class="hero-img" style="background-image: url(/img/background.jpg); background-color: #999">
+        <!-- logo -->
+        <a href="/"><img src="/img/logo.png" alt="" class="site-logo" /></a>
+        <!-- title -->
+        <a href="/"><h1 class="site-title">Salt Lake City Real Estate Video Blog</h1></a>
+			</div>
 </header>
 
 		<div class="container-fluid">
@@ -189,6 +185,9 @@ video{
 			</div>
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-lg-offset-1">
+					<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5PhaAmjtm3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 					<form method="post" class="home-value" action="https://formspree.io/Justin@JustinUdy.com" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
