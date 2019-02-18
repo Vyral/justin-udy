@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Simplest Way to Boost Your Home’s Value
-date: 2019-02-15 21:37:15
+title: The Simplest Ways to Boost Your Home’s Value
+date: 2019-02-15 21:37:00
 tags:
   - Home Seller Tips
 excerpt: >-
