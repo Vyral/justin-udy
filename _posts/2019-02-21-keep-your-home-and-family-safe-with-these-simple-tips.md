@@ -25,7 +25,7 @@ Security is of the utmost importance for homeowners. Thankfully, so long as you 
 
 **There are three elements criminals leverage when attempting a break-in: speed, silence, and low visibility.**
 
-Criminals tend to target properties where they will be move quickly and silently as they enter and exit your home. They also look for homes that offer plenty of places to hide.
+Criminals tend to target properties where they will be able to move quickly and silently as they enter and exit your home. They also look for homes that offer plenty of places to hide.
 
 **By eliminating these factors within your own home, you can also vastly reduce the potential that you’ll fall victim to a crime.**
 
