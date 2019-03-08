@@ -23,7 +23,7 @@ youtube_code: _v2nbptQ-5w
 
 In our Utah real estate market, conditions change all the time. Whether this is a result of the seasons, the beginning or end of the school year, or a number of other factors, there’s certainly something to be said for the impact these developments have on market conditions.&nbsp;
 
-Both locally and nationwide, the second and third quarter tend to be the busiest times of year for our market, but why is that?
+Both locally and nationwide, the second and third quarters tend to be the busiest times of year for our market, but why is that?
 
 There are actually a number of reasons. It’s easier for families to buy and sell while their children are out of school, for one, and the nicer weather at these times of year is also an incentive for people to get out and begin hunting for the perfect home. **The market tends to be most active between April and September.**
 
