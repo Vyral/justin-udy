@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Reasons People Decide to Downsize
-date: 2019-03-07 22:12:00
+date: 2019-03-21 22:12:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
