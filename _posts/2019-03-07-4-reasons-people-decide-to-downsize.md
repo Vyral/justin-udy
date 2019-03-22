@@ -9,7 +9,7 @@ excerpt: >-
   Downsizing is a popular option for many home sellers. Here are a few reasons
   why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Justin+Udy/Videos/2019/March/Salt+Lake+City+Real+Estate+Agent-+Can+You+Time+the+Real+Estate+Market_.mp4
+  https://s3.amazonaws.com/vyralmarketing/Justin+Udy/Videos/2019/March/Salt+Lake+City+Real+Estate+Agent-+4+Reasons+People+Decide+to+Downsize.mp4
 pullquote: Downsizing can create additional financial opportunities for you.
 enclosure_type: video/mp4
 enclosure_time:
