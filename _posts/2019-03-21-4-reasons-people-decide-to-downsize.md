@@ -20,15 +20,15 @@ youtube_code: dR5akPuAxwE
 
 {% include youtube.html %}
 
-**Here are four signs that it may be time for you to downsize from your current home into something a little smaller:**
+**Here are four reasons that it may be time for you to downsize from your current home into something a little smaller:**
 
 **1. Retirement.** When you’re having a change in life, you’re having a change of pace and a change of time. You might want to spend that time differently now by traveling and it just makes sense to make a change.
 
-**2. Unused space.** We find that many rooms end up collecting more dust than they are being occupied.
+**2. Unused space.** Rooms that don't see much use tend to collect dust more quickly. Cleaning rooms like this is generally more of a hassle than it's worth.
 
 {% include pullquote.html %}
 
-**3. Maintenance.** We’ve had clients with amazing properties that they’ve adored all over the year, but the garden has turned into too much work or the fountain takes too much time and maintenance. Things like that can cause major issues, especially as you get older.
+**3. Maintenance.** We've had clients with amazing properties that they used to love maintaining each year, but the garden has turned into too much work or the fountain takes too much time and effort to upkeep. Things like that can cause major issues, especially as you get older.
 
 **4. Money opportunities.** When you’ve lived in a home for years, you’ve probably built up a ton of equity, especially in the last decade. This has created an opportunity for you to buy something that costs less and use that equity to invest in other things that can produce different opportunities for you.
 
