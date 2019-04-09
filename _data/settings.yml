@@ -48,7 +48,7 @@ second_sidebar_CTA:
     CTA_url2: http://www.saltlakehomesearch.com/
 
 lender:
-  show_section: true
+  show_section: false
   header_text: Our Preferred Attorney
   headshot_path:
   logo_path: /img/lender-logo.png
