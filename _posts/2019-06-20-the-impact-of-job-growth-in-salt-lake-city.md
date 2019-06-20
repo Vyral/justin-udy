@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Impact of Job Growth in Salt Lake City
-date: 2019-06-20 18:26:17
+date: 2019-06-20 12:26:00
 tags:
   - Market Update
 excerpt: >-
