@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Key Considerations of Purchasing a Short-Term Rental
-date: 2019-07-22 16:16:15
+date: 2019-07-22 16:16:00
 tags:
   - Home Buyer Tips
-excerpt:
+excerpt: >-
+  Buying a short-term rental property is a wise investment, but there are some
+  important factors and rules at play that you won’t want to overlook.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2019/July/Key+Considerations+of+Purchasing+a+Short-Term+Rental.mp4
 pullquote: >-
