@@ -33,7 +33,7 @@ First, **when you look at a VRBO property, you’re making it subject to future 
 
 {% include pullquote.html %}
 
-Another thing to consider is that **a growing number of homeowners association are putting measures in place to block weekly or nightly rentals;** many HOAs spell out in their covenant that any rental contracts must be in force between six to 12 months. It falls squarely on your shoulders to know the specifics of your HOA’s covenant and what your limitations are.&nbsp;
+Another thing to consider is that **a growing number of homeowners associations are putting measures in place to block weekly or nightly rentals;** many HOAs spell out in their covenant that any rental contracts must be in force between six to 12 months. It falls squarely on your shoulders to know the specifics of your HOA’s covenant and what your limitations are.&nbsp;
 
 Equally as important as the first two considerations, **you must be safe with regard to who you’re allowing to take up temporary residence in your property.** There tends to be less due diligence involved with short-term renters, so exercise caution and conduct the necessary inspections. This includes a radon test, a “meth test,” and just a general examination of the property.&nbsp;
 
