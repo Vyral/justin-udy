@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Explanation of All Things HOA
-date: 2019-08-02 18:01:28
+date: 2019-08-02 18:01:00
 tags:
   - Home Buyer Tips
 excerpt: >-
