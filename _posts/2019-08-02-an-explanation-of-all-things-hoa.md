@@ -38,6 +38,6 @@ It’s also incredibly important to **make sure you know what fees and dues you�
 
 Next, **review your HOA’s budget.** Think of it this way: If you were running a business, you’d want to be safe in the knowledge that it’s healthy and you have money in the bank should an emergency or pressing matter arise. You don’t want to have a business that’s on its way to being insolvent and bankrupt. When you’re moving into an HOA community, you’ll want to enter with this same mindset.&nbsp;
 
-Once you’ve established what use you want to get out of the property, whether it’s a longer-term investment or for short-term renting, find out what the HOA allows in terms of rentals. In the event that the community has too many properties being rented, you may be unable to &nbsp;
+Once you’ve established what use you want to get out of the property, whether it’s a longer-term investment or for short-term renting, find out what the HOA allows in terms of rentals. In the event that the community has too many properties being rented, you may be unable to sell your unit.
 
 All in all, it’s important to have a professional at your side and, together, you can evaluate all the specifics of the HOA you’re looking into. If you have any questions about this or anything else related to real estate, don’t hesitate to get in touch with us. We’re here to help\!
