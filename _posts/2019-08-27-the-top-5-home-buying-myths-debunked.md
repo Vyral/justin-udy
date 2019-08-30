@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Top 5 Home Buying Myths Debunked
-date: 2019-08-27 21:00:17
+date: 2019-08-27 21:00:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -29,7 +29,7 @@ Homebuyers tend to have a lot of questions about the real estate process as they
 
 **Myth No. 3: “Being pre-qualified and being pre-approved is the same thing.”** A pre-qualification is just a general assessment of your financial circumstances; it doesn’t prove that you are truly capable of buying a home. The pre-approval process is much more involved. When you get pre-approved, your lender will ask for paperwork to officially verify your position as a homebuyer.&nbsp;
 
-**Myth No. 4: “You have to be debt-free to purchase a home.”** If this was true, very few people would own homes. The truth is that so long as your debt-to-income ratio (i.e. the balance between how much you earn compared to how much you owe) is in good shape, your debt shouldn’t impede you from buying a home.&nbsp;
+**Myth No. 4: “You have to be debt-free to purchase a home.”** If this was true, very few people would own homes. The truth is that so long as your debt-to-income ratio (i.e., the balance between how much you earn compared to how much you owe) is in good shape, your debt shouldn’t impede you from buying a home.&nbsp;
 
 **Myth No. 5: “It’s a bad idea to start preparing too far in advance.”** Truthfully, it’s never too early to start planning for your next home purchase. And we would be happy to help you make those plans. We can answer any questions you might have about financing, the market, or anything else related to real estate.&nbsp;
 
