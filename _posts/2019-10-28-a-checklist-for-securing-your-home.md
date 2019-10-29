@@ -28,9 +28,9 @@ Here are my tips for preparing your home for autumn and winter:&nbsp;
 
 {% include pullquote.html %}
 
-**3\. Seal doors and windows.** Make sure critters can’t get inside, when it’s cold, they gravitate toward the heat of your home. Also, you don’t want a draft, or you’ll spend more money trying to heat your home. You can weatherstrip or caulk the doors and windows.&nbsp;
+**3\. Seal doors and windows.** Make sure critters can’t get inside. When it’s cold, they gravitate toward the heat of your home. Also, you don’t want a draft, or you’ll spend more money trying to heat your home. You can weatherstrip or caulk the doors and windows.&nbsp;
 
-**4\. Winterize your pipes, hoses, and spigots.** Plumbing freezes, but you can winterize your home at any time, it’s never too late. Remove the outdoor hoses from the spigots, otherwise, your pipes will freeze.&nbsp;
+**4\. Winterize your pipes, hoses, and spigots.** Plumbing freezes, but you can winterize your home at any time— it’s never too late. Remove the outdoor hoses from the spigots, otherwise, your pipes will freeze.&nbsp;
 
 **5\. Seal off your chimney and attic.** You can easily buy grates at hardware stores to make sure mice and squirrels can’t get in. One of our neighbors even had a raccoon enter their house\! These small things will save you in the long run. Taking care of these will eliminate future issues.&nbsp;
 
