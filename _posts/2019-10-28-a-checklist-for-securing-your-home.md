@@ -5,15 +5,15 @@ date: 2019-10-28 00:00:00
 tags:
 excerpt: Today I’m sharing six tips to prepare your home for the coming cold months.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2019/September/A+Checklist+For+Securing+Your+Home+(2).mp4
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2019/October/A+Checklist+For+Securing+Your+Home.mp4
 pullquote: >-
   As seasons change and we’re spending more time indoors, make sure you’re
   breathing healthy air!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/fall-checklist-youtube.jpg
-youtube_code: rpTMF5UDCkI
+youtube_alternate_image: /uploads/fall-checklist-youtube-1.jpg
+youtube_code: 0mvJrbgYvCM
 ---
 
 {% include youtube.html %}
