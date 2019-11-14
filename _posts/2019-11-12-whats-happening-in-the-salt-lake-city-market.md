@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/fall-market-update-youtube.jpg
-youtube_code: 2mYGq-BFe44
+youtube_code: gsHMiDdN9Vw
 ---
 
 {% include youtube.html %}
