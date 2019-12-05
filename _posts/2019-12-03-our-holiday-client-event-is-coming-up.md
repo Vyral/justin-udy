@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/holiday-event-youtube.jpg
-youtube_code: 8gLz12fRqPw
+youtube_code: EsuNXqs6J2g
 ---
 
 {% include youtube.html %}
