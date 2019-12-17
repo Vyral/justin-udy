@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What to Remember When Selling Your Home
-date: 2019-12-17 21:17:22
+date: 2019-12-17 21:17:00
 tags:
   - Home Seller Tips
 excerpt: >-
   Price, presentation, and perception are the three components that drive a home
   sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2019/December/What+to+Remember+When+Selling+Your+Home.mp4
 pullquote: 'When listing your home, think about price, presentation, and perception.'
 enclosure_type: video/mp4
 enclosure_time:
