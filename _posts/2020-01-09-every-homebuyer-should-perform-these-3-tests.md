@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Every Homebuyer Should Perform These 3 Tests
-date: 2020-01-09 17:30:11
+date: 2020-01-09 17:30:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -29,6 +29,6 @@ Each home is unique, but you should always make sure to do these three things be
 
 **2\. Test for radon.** Recently, we’ve been finding the presence of radon in a lot of homes. This gas can be hazardous toward homeowners, so it’s important to make sure you don’t buy a property that’s filled with it. If radon is present, however, there are mitigation systems that can remove the gas and make your home safe.
 
-**3\. Test for methamphetamine.** Utah has a high rate of addiction problems, and past residents may have used drugs in the property. Homes many need to be decontaminated after drugs like methamphetamine are used in it.
+**3\. Test for methamphetamine.** Utah has a high rate of addiction problems, and past residents may have used drugs in the property. Homes may need to be decontaminated after drugs like methamphetamine are used in it.
 
 There are other checklists we provide our clients, but these three tests are also very important. If you have any questions or would like to learn more, feel free to reach out to me. I look forward to hearing from you soon.
