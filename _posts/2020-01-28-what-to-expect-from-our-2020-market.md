@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What to Expect from Our 2020 Market
-date: 2020-01-28 22:35:18
+title: What to Expect From Our 2020 Market
+date: 2020-01-28 22:35:00
 tags:
   - Market Update
 excerpt: >-
@@ -27,11 +27,11 @@ This report covers a vast array of market metrics, but today I’m sharing the m
 
 First, **expect job growth for 2020.** We had a record year in 2019—a 2.8% increase\! Though that will likely drop a bit throughout this year, it’s still forecast to be a cozy 2.3% increase.&nbsp;
 
-Experts are anticipating 13,700 people migrating into our area, which is more than the number of people leaving. Our labor market was crazy this year, with unemployment at 2.2%. **We haven’t seen unemployment that low in 70 years\!** For 2020, that rate is projected to be around 3%.&nbsp;
+Experts are anticipating 13,700 people migrating into our area, which is more than the number of people leaving. Our labor market was crazy last year, with unemployment at 2.2%. **We haven’t seen unemployment that low in 70 years\!** For 2020, that rate is projected to be around 3%.&nbsp;
 
 {% include pullquote.html %}
 
-2019 was also a record for new construction homes. 10,000 new homes were built, and in 2020 we’re likely to see a slight decrease to about 8,500 newly constructed homes. Interestingly enough, **of those 10,000 built in 2019, 75% were apartments.&nbsp;**
+2019 was also a record year for new construction homes. 10,000 new homes were built, and in 2020 we’re likely to see a slight decrease to about 8,500 newly constructed homes. Interestingly enough, **of those 10,000 built in 2019, 75% were apartments.&nbsp;**
 
 All the top economists are in loose consensus that interest rates should remain below 4% this year. Our median home price in 2019 for single-family homes was $380,000, and it’s expected to increase by 5%. We’re also anticipating that condo and townhome prices will increase by 10%.
 
