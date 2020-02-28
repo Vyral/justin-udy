@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do Interest Rates Impact Our Economic Forecast?
-date: 2020-02-27 20:15:18
+date: 2020-02-27 20:15:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -27,6 +27,6 @@ We anticipated that rates would go up sometime in 2020, but what they’re antic
 
 Even though prices are adjusting, interest rates are still as valuable as the price. Even a slight drop in rates can give buyers a lot more affordability. We recently worked with a client who saw their home’s value essentially increase by $30,000 because of this.
 
-**Based on the data from many different, respected economics, interest rates should stay around the 3.75% range this year.** If you have been considering buying, locking in a rate this low will be huge for your long-term appreciation. You can get an affordable home in a good area with a great market right now.
+**Based on the data from many different, respected economics, interest rates should stay around the 3.75% range this year.** If you have been considering buying, locking in a rate this low will be huge for your long-term appreciation. You can get an affordable home in a good area with our great market right now.
 
 If you have any questions for me about buying or selling a home, feel free to reach out via phone or email. I look forward to hearing from you soon.
