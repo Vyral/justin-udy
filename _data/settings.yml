@@ -41,7 +41,7 @@ client:
   url: 'https://JustinUdy.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://justinudy.com/home_value'
+  first_CTA_URL: 'https://www.justinudy.com/home_value'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.saltlakehomesearch.com/'
 sidebar_CTA:
