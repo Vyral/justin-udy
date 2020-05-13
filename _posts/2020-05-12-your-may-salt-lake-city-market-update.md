@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your May Salt Lake City Market Update
-date: 2020-05-12 19:42:50
+date: 2020-05-12 19:42:00
 tags:
   - Market Update
 excerpt: The numbers say buyers and sellers can take advantage of our market.
@@ -29,7 +29,7 @@ Second, **interest rates are hovering around 3.5%.** A couple of weeks ago, they
 
 This is one of the best opportunities we’ve seen for buyers in a long time because there simply aren’t that many buyers in the market to compete against. A lot of folks are delaying their purchasing plans because they’re nervous about their job or the market itself. With less inventory and the same level of demand, we’re seeing a very strong pricing market. Sellers can sell to a great buyer, while buyers have more time to evaluate their purchase.&nbsp;
 
-This brings me to the last key statistic, which relates to the number of backup offers. In general, **the average rate of fallout (i.e., a deal falls through and the home goes back on the market) for all transactions was around 5%, but now it’s around 20%.** Truthfully, this isn’t a bad thing. Obviously, it’s stressful if you’re a seller, but we’re finding replacement buyers right away if a deal does fall through.&nbsp;
+This brings me to the last key statistic, which relates to the number of backup offers. In general, **the average rate of fallout (i.e., a deal falls through and the home goes back on the market) for all transactions was around 5%, but now it’s around 20%.** Truthfully, this isn’t a bad thing. It’s stressful if you’re a seller, but we’re finding replacement buyers right away if a deal does fall through.&nbsp;
 
 The point is that buyers don’t want to put a lot of money into a brand-new property, so sellers need to prepare their home so that it’s market-ready when they list it. If certain repairs aren’t done, buyers are more likely than they were before to move on from the property.&nbsp;
 
