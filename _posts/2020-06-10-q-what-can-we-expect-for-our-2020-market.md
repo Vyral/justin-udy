@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Can We Expect For Our 2020 Market?'
-date: 2020-06-10 17:51:38
+date: 2020-06-10 17:51:00
 tags:
   - Market Update
 excerpt: >-
@@ -31,7 +31,7 @@ Furthermore, interest rates are incredibly low—the average rate is currently h
 
 Lastly, **today’s market has a much lower inventory than it did back in 2008.** Compared to just a year ago, the number of listings is down by 20%, but the number of homes under contract is up by 13%.&nbsp;
 
-Here’s another interesting fact: The Multiple Listing Service has adjusted the way we market and sell properties, meaning that where before we could market a property as ‘coming soon,’ we now have to give it ‘off-market’ status. We have 18% more off-market properties this year than last.
+Here’s another interesting fact: The multiple listing service has adjusted the way we market and sell properties, meaning that where before we could market a property as ‘coming soon,’ we now have to give it ‘off-market’ status. We have 18% more off-market properties this year than last.
 
 The homes that are on the market are also selling incredibly quickly. We recently had a $960,000 home that we marketed and sold within two business days for full price. There was another, $650,000 home that we sold at full price in just 10 days.
 
