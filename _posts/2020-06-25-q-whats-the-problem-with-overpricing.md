@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/overpricing-youtube.jpg
-youtube_code: JRnc6JKGB9I
+youtube_code: RXOvMCCFmC8
 ---
 
 {% include youtube.html %}
