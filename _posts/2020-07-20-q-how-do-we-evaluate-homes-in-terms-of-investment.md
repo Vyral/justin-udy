@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do We Evaluate Homes In Terms of Investment?'
-date: 2020-07-20 18:05:50
+date: 2020-07-20 18:05:00
 tags:
   - Home Seller Tips
 excerpt: Here are a few tips to help you maximize your money on your investment.
@@ -17,7 +17,7 @@ youtube_code: K0CXgiVuC5s
 
 {% include youtube.html %}
 
-Whenever you’re looking at multifamily properties, single-family properties, or commercial spaces, we typically go through the same process:
+Whenever we evaluate multifamily properties, single-family properties, or commercial spaces, we typically ask ourselves the same questions:
 
 **1\. What is the zoning?** What things are we allowed to do that will enhance the property’s value?
 
