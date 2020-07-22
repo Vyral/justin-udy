@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/maximizing-investment-youtube.jpg
-youtube_code: K0CXgiVuC5s
+youtube_code: x5M-oD0dXtM
 ---
 
 {% include youtube.html %}
