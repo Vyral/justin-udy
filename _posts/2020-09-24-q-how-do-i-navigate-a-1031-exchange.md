@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do I Navigate a 1031 Exchange?'
-date: 2020-09-24 20:47:04
+date: 2020-09-24 20:47:00
 tags:
   - Home Seller Tips
 excerpt: Here’s how to execute a 1031 exchange and avoid the gain.
@@ -21,9 +21,9 @@ When doing a 1031 exchange, there are six rules you should follow:&nbsp;
 
 **1\. Know the deadlines.** It’s 45 days to identify the property, and then 180 days to close on the property. The only reason we’re doing a 1031 exchange is to take our property and put it into another property so as to avoid the gain, which would otherwise be subject to capital gains taxes; don’t defeat the purpose by missing deadlines.&nbsp;
 
-**2\. Sign the exchange documents on or before the day of closing.** This seems simple enough, but it’s absolutely critical; again, signing after the fact doesn’t serve our goal of avoiding the gain.&nbsp;
+**2\. Sign the exchange documents on or before the day of closing.** This seems simple enough, but it’s critical; again, signing after the fact doesn’t serve our goal of avoiding the gain.&nbsp;
 
-**3\. Think about who will acquire the replacement property.** Remember: When you sell a property in a 1031 exchange, the *same entity* needs to purchase the other property. Single-member LLCs are not identified, so as long as you’re a single-member LLC, that can adjust. Just make sure you have everything lined up prior to closing so that that same entity is prepared to purchase the other property.&nbsp;
+**3\. Think about who will acquire the replacement property.** Remember: When you sell a property in a 1031 exchange, the *same entity* needs to purchase the other property. Single-member LLCs are not identified, so as long as you’re a single-member LLC, that can adjust. Just make sure you have everything lined up prior to closing so that the same entity is prepared to purchase the other property.&nbsp;
 
 {% include pullquote.html %}
 
