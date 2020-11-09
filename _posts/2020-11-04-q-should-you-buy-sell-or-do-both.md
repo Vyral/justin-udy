@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Should You Buy, Sell, or Do Both?'
-date: 2020-11-04 21:30:19
+date: 2020-11-04 21:30:00
 tags:
   - Home Seller Tips
 excerpt: 'Here are your options when buying a home, selling a home, or both.'
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/buy-sell-or-both-yt.jpg
-youtube_code: 5mOOgVgpSl4
+youtube_code: oUkTWOunwI8
 ---
 
 {% include youtube.html %}
