@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Should I Evaluate Land?'
-date: 2020-12-07 19:22:18
+date: 2020-12-07 19:22:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -36,4 +36,4 @@ The big problem that people run into is when agents aren’t contractors or buil
 
 **6\. Geotechnical study.** This is essentially a soil report. We typically spend a decent amount of money looking at what’s in the ground in order to evaluate it. When we’re looking at a piece of property that’s already been improved, it means that the builder or developer has already gone through this process and should have these studies in place for you to look at.
 
-I know this is a lot of information, but truth be told, it is just the tip of the iceberg. For more information on this topic, check out our recent video where we talk about the things you should consider when building new construction. If you have any other questions, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+I know this is a lot of information, but truth be told, it is just the tip of the iceberg. If you have any other questions, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
