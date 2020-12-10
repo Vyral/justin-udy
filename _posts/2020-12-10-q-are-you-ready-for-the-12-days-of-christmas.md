@@ -22,4 +22,4 @@ During this time, everyone on our team will also make a donation to a charity of
 
 **To find out more about this event, including how to register, visit [justinudyevents.com](https://docs.google.com/forms/d/e/1FAIpQLSetLDGR-tGyOnIdoXV5k3gwEt1_lunO3nWpuFiJrpfbmi9NCQ/viewform){: target="_blank" rel="noopener"}.** If you have any questions, don’t hesitate to reach out to me. I’d love to speak with you.
 
-![](/uploads/unnamed.jpg){: width="100%" height="100%"}
+![](/uploads/unnamed.jpg){: width="100%" height="80%"}
