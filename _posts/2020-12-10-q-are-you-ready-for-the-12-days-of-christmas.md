@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Are You Ready for The 12 Days of Christmas?'
+title: 'Q: Are You Ready for the 12 Days of Christmas?'
 date: 2020-12-10 20:33:00
 tags:
   - Real Estate
