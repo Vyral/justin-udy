@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Are the Pros and Cons of Downtown Salt Lake City?'
-date: 2020-12-23 21:53:31
+date: 2020-12-23 21:53:00
 tags:
   - Home Buyer Tips
 excerpt: Here are the pros and cons of living in downtown Salt Lake City.
@@ -25,7 +25,7 @@ There are pros and cons to living in any area, and today I’ll outline those th
 
 1. Convenience: You can get to any downtown office location quickly. This is one of the main reasons why people choose to live in a downtown environment.&nbsp;
 2. You save money. When you live downtown, you may not have to invest in other things that cost money. For example, you won’t have to spend as much on gas because you don’t travel as much—you may not even have to buy a car. You have the opportunity to walk to work every single day.&nbsp;
-3. Appreciation. In popular urban environments, appreciation in high-demand ZIP codes rises faster and stays high longer. When you invest in this type of location, it’s such a draw that it maintains its value far better than a more rural property, whether you’re holding it for a short- or long-term investment.&nbsp;
+3. Appreciation. In popular urban environments, appreciation in high-demand ZIP codes rises faster and stays high longer. When you invest in this type of location, it’s such a draw that it maintains its value far better than a more rural property, whether you’re holding it for a short- or long-term investment.&nbsp;<br>&nbsp;
 
 {% include pullquote.html %}
 
