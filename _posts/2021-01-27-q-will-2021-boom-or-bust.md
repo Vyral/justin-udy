@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Q: Will 2021 Boom, or Bust?'
-date: 2021-01-27 21:46:49
+title: 'Q: Will 2021 Boom or Bust?'
+date: 2021-01-27 21:46:00
 tags:
   - Market Update
 excerpt: 'The outlook for 2021 is stellar, and here’s why.'
@@ -17,7 +17,7 @@ youtube_code: POCpaB2U3ek
 
 {% include youtube.html %}
 
-Today I’m especially excited to share with you a market forecast for 2021 because all indicators point to a record-breaking year for home sales. The market increased by a little more than 11% last year, but experts are anticipating appreciation of 6% to 8% this year—not double-digit growth, but certainly still phenomenal, stable growth. Also, Salt Lake City was among the top 10 cities for job growth last year, making us one of the best secondary local markets in the nation. What’s a “secondary” market, though? And, more importantly, should you be worried about a bubble bursting soon? I’m not, and to find out why, watch my latest video.&nbsp;
+Today I’m especially excited to share a market forecast for 2021 because all indicators point to a record-breaking year for home sales. The market increased by a little more than 11% last year, but experts are anticipating appreciation of 6% to 8% this year—not double-digit growth, but certainly still phenomenal, stable growth. Also, Salt Lake City was among the top 10 cities for job growth last year, making us one of the best secondary local markets in the nation. What’s a “secondary” market, though? Also, should you be worried about a bubble bursting soon?
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
 
