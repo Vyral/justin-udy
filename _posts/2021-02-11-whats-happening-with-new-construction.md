@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What’s Happening With New Construction?
-date: 2021-02-11 22:26:40
+date: 2021-02-11 22:26:00
 tags:
   - Home Buyer Tips
 excerpt: 'Recently, homebuilding has changed. Here’s what you need to know.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2021/What%E2%80%99s+Happening+With+New+Construction_.mp4
 pullquote: >-
   The top 10 builders in the country make up 30% of all single-family home
   sales.
