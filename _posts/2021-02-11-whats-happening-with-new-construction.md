@@ -21,7 +21,7 @@ youtube_code: TUUhdWWXDIs
 
 New construction has changed significantly over the last 12 to 24 months. There are a few things you should know whether you’re considering buying, upgrading, or just looking at the market.&nbsp;
 
-The top 10 builders in the country make up 30% of all single-family home sales. Builders own tons of land, and they’re selling it. Lumber prices have also increased in the last year by up to 170%. **Lumber prices alone make a new home about $40,000 more expensive** than in the recent past.&nbsp;
+The top 10 builders in the country make up 30% of all single-family home sales. Builders own tons of land, and they’re selling it. Lumber prices have also increased in the last year by up to 170%. **Lumber prices alone make a new home about $40,000 more expensive to build** than in the recent past.&nbsp;
 
 {% include pullquote.html %}
 
