@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Pricing: Modern vs. Traditional Homes'
-date: 2021-02-23 20:20:07
+date: 2021-02-23 20:20:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s why pricing is different between modern and traditional homes.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2021/Pricing_+Modern+vs.+Traditional+Homes.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
