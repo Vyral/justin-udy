@@ -22,12 +22,9 @@ youtube_code: 0jru2WnDq2E
 
 When we have a market that continues to move up like ours, it’s sometimes very difficult for listing agents not only when we’re listing and marketing properties, but also when we have a property under contract with multiple offers above the list price. So **what happens when the appraisal doesn’t come in at the contract price?**
 
-We recently had a renovated property that was listed at $750,000, but the appraisal came in at $630,000. That’s a huge gap\! The agent involved knew that he had three decisions to make:
+We recently had a renovated property that was listed at $750,000, but the appraisal came in at $630,000. That’s a huge gap\! The agent involved knew that he had three choices:
 
-\*\*1. Drop the price to the appraised value
-
-1. Adjust the price somewhere between the appraised value and the listing price
-2. Ask the buyer to cover the difference\*\*
+**1\. Drop the price to the appraised value<br>2\. Adjust the price somewhere between the appraised value and the listing price<br>3\. Ask the buyer to cover the difference**
 
 Truth be told, it was a bad appraisal. Sometimes the appraiser doesn’t have all the information available to them, so make sure to have them look at the size, square footage, condition, and quality of the home as well as that of comparable properties that have sold in your area. Around half the time, introducing new information to the appraiser will cause them to change their appraisal.
 
@@ -35,4 +32,4 @@ Truth be told, it was a bad appraisal. Sometimes the appraiser doesn’t have al
 
 In our case, the buyer’s agent said that they knew we were going to get the appraisal adjusted, but since they were so eager to close on the home, they decided to pay the gap in cash. Most people can’t come in with that much cash to close a deal, but **sometimes you can negotiate in other ways,** such as by offering to pay closing costs or extending the contract so that the property can be reappraised in 30 days.
 
-If you have any questions or need any assistance with a current or future transaction, don’t hesitate to reach out to us. We’d be happy to speak with you.
+If you have any questions or need assistance with a current or future transaction, don’t hesitate to reach out to us. We’d be happy to speak with you.
