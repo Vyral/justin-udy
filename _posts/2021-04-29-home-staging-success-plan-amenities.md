@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Home Staging Success Plan: Amenities'
-date: 2021-04-29 20:01:08
+date: 2021-04-29 20:01:00
 tags:
   - Home Seller Tips
 excerpt: Here’s how we showcase your amazing amenities when selling your home.
@@ -18,7 +18,7 @@ youtube_code: UAVBw2qlPbc
 
 When we go through our home staging success plan, we talk about four things: curb appeal, kitchen, bathrooms, and amenities. Today I’m discussing the amenities part of the plan.&nbsp;
 
-Amenities are crucial firstly because we want to differentiate your property from the rest. **We want to showcase your amenities to their fullest.** Amenities can be many different things; every home has what a standard house should have, but think about what your home has that’s extra such as a balcony, fantastic views, a pool, a 3-car garage, a great full-kitchen remodel, double ovens, a huge porch, etc. We showcase differentiation, interesting items, and are trying to attract people interested in these particular amenities.&nbsp;
+Amenities are crucial firstly because we want to differentiate your property from the rest. **We want to showcase your amenities to their fullest.** Amenities can be many different things; every home has what a standard house should have, but think about the extra things your home may have, such as a balcony, fantastic views, a pool, a 3-car garage, a great full-kitchen remodel, double ovens, a huge porch, etc. We showcase differentiation, interesting items, and are trying to attract people interested in these particular amenities.&nbsp;
 
 {% include pullquote.html %}
 
