@@ -8,7 +8,8 @@ tags:
   - Salt Lake City Real Estate Buyer Tips
   - Salt Lake City Real Estate Seller Tips
 excerpt: Here’s what you need to know about the rising price of building materials.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2021/What+Lumber+Prices+Do+to+the+Market.mp4
 pullquote: The market is based on supply and demand.
 enclosure_type: video/mp4
 enclosure_time:
