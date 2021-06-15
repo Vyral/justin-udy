@@ -25,7 +25,7 @@ Today I'm talking about lumber prices, supply and demand, and what you should ex
 
 {% include pullquote.html %}
 
-Right now, we have a housing issue despite summertime being one of the strongest seasons where people are building. **It’s fair to say that the low inventory issue is going to continue at this rate for a while.** In the colder seasons in North America, there tends to not be as much construction due to the climate. I think the demand for materials will change as we see the temperatures drop. What you may also start seeing is people finding creative ways around these prices. We’ve seen builders using reclaimed wood as well as bamboo because it’s cheaper but just as durable.
+Right now, we have a housing issue despite summertime being one of the strongest seasons where people are building. **It’s fair to say that the low inventory issue is going to continue at this rate for a while.** In the colder seasons in North America, there tends to not be as much construction due to the climate. I think the demand for materials will change as we see the temperatures drop. What you may also start seeing is people finding creative solutions around these prices. We’ve seen builders using reclaimed wood as well as bamboo because it’s cheaper but just as durable.
 
 As you're evaluating a new construction property or renovation, keep those factors in mind. If a builder tells you it's going to be a fixed cost, they're going to leave a gap in that pricing, not knowing what the market's doing. They don't have a crystal ball either, but if it's cost-plus, whatever that cost is, they're going to add their amount to it. **Just know what you're looking for and know what you're asking for.**
 
