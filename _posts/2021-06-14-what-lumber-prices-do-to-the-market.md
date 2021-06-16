@@ -15,13 +15,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/lumber-prices-yt.jpg
-youtube_code: tNLunM51_2w
+youtube_code: '-UkTcBra-Ik'
 ---
 {% include youtube.html %}
 
 Today I'm talking about lumber prices, supply and demand, and what you should expect in the homes you're selling and buying. Recently there was a great [article](https://www.deseret.com/utah/2021/5/15/22436266/housing-in-the-west-5-staggering-facts-about-utahs-hot-home-market) in Deseret News about what's happened with lumber prices, OSB prices, and studs. As you’ll see in the graph in the aforementioned link, there has been such a huge change not just around those materials, but also in building materials, which have dramatically increased in price.
 
-**Here’s a word of caution with new construction:** You are selling your home at a premium, but often new construction prices adjust drastically per the supply and demand. If prices get to a point where builders are so nervous that they're not going to build and if buyers are priced out of the market due to the new construction prices, it'll cause a demand issue. Then&nbsp; there will be extra supply and then we’d see a price adjustment.
+**Here’s a word of caution with new construction:** You are selling your home at a premium, but often new construction prices adjust drastically per the supply and demand. If prices get to a point where builders are so nervous that they're not going to build and if buyers are priced out of the market due to the new construction prices, it'll cause a demand issue. Then there will be extra supply, and we’d see a price adjustment.
 
 {% include pullquote.html %}
 
