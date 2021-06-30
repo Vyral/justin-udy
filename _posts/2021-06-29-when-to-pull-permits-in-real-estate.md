@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/permits-yt.jpg
-youtube_code: IOYjxQRrOtA
+youtube_code: 1TaJ4GG26DE
 ---
 {% include youtube.html %}
 
