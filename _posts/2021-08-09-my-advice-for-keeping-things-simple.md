@@ -15,7 +15,7 @@ youtube_code: CsqcO5aVFzw
 ---
 {% include youtube.html %}
 
-As agents, we know that real estate transactions can get pretty complicated. However, the truth is that complication kills momentum. If things get too complicated, oftentimes we abandon the project altogether. Today I’ll explain how this happens and how you can avoid it.&nbsp;
+As agents, we know that real estate transactions can get pretty complicated. However, the truth is that complexity kills momentum. If things get too complicated, oftentimes we abandon the project altogether. Today I’ll explain how this happens and how you can avoid it.&nbsp;
 
 **When things get complicated, we tend to not move forward on them.** For example, look at the house I am filming this video in. Before, it had a classic 90’s-style look. By making a few small improvements such as painting the cabinets, updating the hardware, and replacing the light fixtures, we were able to make a huge difference in presentation.&nbsp;
 
