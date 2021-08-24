@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /download-1.jpg
-youtube_code: 3t0h0mDbWAA
+youtube_code: baD0dEh6GK0
 ---
 {% include youtube.html %}
 
@@ -23,6 +23,6 @@ Market changes, fickle buyers, and low appraisals aren’t the only things to wa
 
 **3\. They talk to potential buyers.**
 
-Some clients don't even want to put a sign out front. I believe you should prepare those neighbors to help you sell the property. If you just have a respectful conversation with the neighbors, they will very likely help you. Nicely ask them to park their car in their garage, pick up the things in their yard, and to let potential buyers come and go without talking to them. If you’re transparent with your requests, most people will be understanding. I know sometimes these can be sensitive conversations, but they do help us sell homes.
+Some clients don't even want to put a sign out front. I believe you should prepare those neighbors to help you sell the property. If you just have a respectful conversation with the neighbors, they will very likely help you. Nicely ask them to park their car in their garage, pick up the things in their yard, and let potential buyers come and go without talking to them. If you’re transparent with your requests, most people will be understanding. I know sometimes these can be sensitive conversations, but they do help us sell homes.
 
 If you have any questions, please feel free to reach out to us.
