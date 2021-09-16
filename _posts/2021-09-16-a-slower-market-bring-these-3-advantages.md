@@ -5,7 +5,8 @@ date: 2021-09-16 17:15:53
 tags:
   - Market Update
 excerpt: The market slowdown is actually healthy because of these 3 reasons.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2021/A+Slower+Market+Bring+These+3+Advantages.mp4
 pullquote: >-
   When there’s a change in the market, it isn’t negative, it just changes how we
   do business.
@@ -19,7 +20,7 @@ youtube_code: oBCRxqGRIrk
 
 We had a red hot market with so many offers and buyers, and when we shifted to a more normal market, people felt that was a bad thing. In reality, it’s healthy. The market will ebb and flow — that’s normal economics. Any state of the market can bring problems, and we were seeing three problems earlier this year that the slower market fixes:
 
-**1\. We saw a lot of buyers who weren’t serious,** which sometimes distracted from the more serious buyers. Now that the market is slower, fewer buyers are backing out of the process.&nbsp;
+**1\. We saw a lot of buyers who weren’t serious,** which sometimes distracted from the more serious buyers. Now that the market is slower, fewer buyers are backing out of the process.
 
 {% include pullquote.html %}
 
