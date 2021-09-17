@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /market-slowdown-yt.jpg
-youtube_code: oBCRxqGRIrk
+youtube_code: c2YxjxuAAi8
 ---
 {% include youtube.html %}
 
