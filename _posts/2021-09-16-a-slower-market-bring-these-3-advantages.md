@@ -8,7 +8,7 @@ excerpt: The market slowdown is actually healthy because of these 3 reasons.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2021/A+Slower+Market+Bring+These+3+Advantages.mp4
 pullquote: >-
-  When there’s a change in the market, it isn’t negative, it just changes how we
+  When there’s a change in the market, it isn’t negative; it just changes how we
   do business.
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +18,7 @@ youtube_code: c2YxjxuAAi8
 ---
 {% include youtube.html %}
 
-We had a red hot market with so many offers and buyers, and when we shifted to a more normal market, people felt that was a bad thing. In reality, it’s healthy. The market will ebb and flow — that’s normal economics. Any state of the market can bring problems, and we were seeing three problems earlier this year that the slower market fixes:
+We had a red-hot market with so many offers and buyers, and when we shifted to a more normal market, people felt that was a bad thing. In reality, it’s healthy. The market will ebb and flow — that’s normal economics. Any state of the market can bring problems, and we were seeing three problems earlier this year that the slower market fixes:
 
 **1\. We saw a lot of buyers who weren’t serious,** which sometimes distracted from the more serious buyers. Now that the market is slower, fewer buyers are backing out of the process.
 
@@ -26,6 +26,6 @@ We had a red hot market with so many offers and buyers, and when we shifted to a
 
 **2\. Buyers didn’t always have time to do their due diligence.** We’ve seen buyers of properties we were selling get into a bit of trouble because they didn’t have time to do this research. A slower market lets everyone take their time and make sure everything is in order.
 
-**3\. It was hard to transition homes.** With the market that competitive, people were wondering how they could get a new house if they sold their old one. That’s why we had so many lease-backs or other creative solutions to this problem. With a slower market, this is not as big of an issue.
+**3\. It was hard to transition homes.** With the market that competitive, people were wondering how they could get a new house if they sold their old one. That’s why we had so many leasebacks or other creative solutions to this problem. With a slower market, this is not as big of an issue.
 
-When there’s a change in the market, it isn’t negative, it just changes how we do business. If you have any questions about the state of the market or anything else real estate-related, don’t hesitate to give us a call. We’re always here to help.
+When there’s a change in the market, it isn’t negative; it just changes how we do business. If you have any questions about the state of the market or anything else real estate-related, don’t hesitate to give us a call. We’re always here to help.
