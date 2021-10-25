@@ -5,7 +5,8 @@ date: 2021-10-25 21:41:17
 tags:
     - Home Buyer Tips
 excerpt: Here are five things that buyers should avoid in this market.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2021/What+To+Avoid+as+a+Buyer+in+This+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
