@@ -16,7 +16,7 @@ youtube_code: AUnWhZ79Oxs
 ---
 {% include youtube.html %}
 
-Have you ever thought, “What should I avoid when buying in this market?” Today we’re addressing your concerns and are going to go over the answers to this question. There are five main things that we want to help buyers avoid in this market.
+Have you ever thought, “What should I avoid when buying in this market?” Today we’re addressing your concerns and going over the answers to this question. There are five main things that we want to help buyers avoid in this market.
 
 **Feel free to watch the full message above, or use these timestamps to browse specific topics at your leisure:**
 
