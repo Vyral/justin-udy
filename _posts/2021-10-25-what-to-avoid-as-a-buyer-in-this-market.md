@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/justin-udy-yt.jpg
-youtube_code: AUnWhZ79Oxs
+youtube_code: 3bFlcN29F-8
 ---
 {% include youtube.html %}
 
