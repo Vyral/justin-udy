@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/udy-yt.jpeg
-youtube_code: pIrgU92N0hA
+youtube_code: lMomEiT4zeY
 ---
 {% include youtube.html %}
 
