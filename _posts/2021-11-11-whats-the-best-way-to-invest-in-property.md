@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/justin-udy-ss-11-11-21yt.jpg
+youtube_alternate_image: /uploads/udy-yt.jpeg
 youtube_code: pIrgU92N0hA
 ---
 {% include youtube.html %}
