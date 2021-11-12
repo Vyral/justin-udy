@@ -4,7 +4,7 @@ title: What’s The Best Way To Invest In Property?
 date: 2021-11-11 22:17:16
 tags:
     - Home Buyer Tips
-excerpt: Here’s how you can use the BRRR strategy to level up your investments.
+excerpt: Here’s how you can use the BRRRR strategy to level up your investments.
 enclosure: >-
     https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2021/What%E2%80%99s+The+Best+Way+To+Invest+In+Property_.mp4
 pullquote: >-
@@ -20,7 +20,7 @@ youtube_code: pIrgU92N0hA
 
 Have you ever considered purchasing an investment property? Maybe you’re concerned that your money could be better invested somewhere else. Today I want to go over everything you need to know about investment properties, including how you can still have money for other investments.
 
-The method I want to break down for you today is called the BRRR strategy. BRRR stands for buy, renovate, rent, and refinance. Books have been written about it, and podcasts have spoken at length about it, but hopefully, I can explain things for you in a way that makes sense.&nbsp;
+The method I want to break down for you today is called the BRRRR strategy. BRRRR stands for buy, renovate, rent, refinance, and repeat. Books have been written about it, and podcasts have spoken at length about it, but hopefully, I can explain things for you in a way that makes sense.&nbsp;
 
 **Let’s start with buying.** When we buy a property, we want to look for two major things. The first is equity, and the second is cash flow. We need equity because when it comes time to refinance, we need to be able to take money out. The cash flow is so that the property makes sense as a long-term investment.&nbsp;
 
@@ -32,4 +32,4 @@ After you improve your property’s value, **it’s time to refinance.** With th
 
 If you follow these steps, you now have a property you own and are renting out, but you also have the cash from it to **repeat the process.** Repeating is important because your cash flow will scale with each new property.&nbsp;
 
-Hopefully, you now understand the opportunity in investment properties. If you have any questions about investment properties or the BRRR strategy, please call or email me. I am always willing to help.
+Hopefully, you now understand the opportunity in investment properties. If you have any questions about investment properties or the BRRRR strategy, please call or email me. I am always willing to help.
