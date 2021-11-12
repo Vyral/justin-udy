@@ -20,7 +20,7 @@ youtube_code: lMomEiT4zeY
 
 Have you ever considered purchasing an investment property? Maybe you’re concerned that your money could be better invested somewhere else. Today I want to go over everything you need to know about investment properties, including how you can still have money for other investments.
 
-The method I want to break down for you today is called the BRRRR strategy. BRRRR stands for buy, renovate, rent, refinance, and repeat. Books have been written about it, and podcasts have spoken at length about it, but hopefully, I can explain things for you in a way that makes sense.&nbsp;
+The method I want to break down for you today is called the BRRRR strategy. BRRRR stands for buy, renovate, rent, refinance, and repeat. Books have been written about it, and podcasts have spoken at length about it, but hopefully, I can explain things for you in a way that makes sense.&nbsp;&nbsp;
 
 **Let’s start with buying.** When we buy a property, we want to look for two major things. The first is equity, and the second is cash flow. We need equity because when it comes time to refinance, we need to be able to take money out. The cash flow is so that the property makes sense as a long-term investment.&nbsp;
 
