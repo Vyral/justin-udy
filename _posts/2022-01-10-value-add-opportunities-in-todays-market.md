@@ -5,7 +5,8 @@ date: 2022-01-10 19:40:18
 tags:
   - Home Buyer Tips
 excerpt: Why are we seeing more value-add opportunities?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2022/Value-Add+Opportunities+in+Today%E2%80%99s+Market.mp4
 pullquote: >-
   If you’re looking for opportunities in the market, consider a value-add
   property.
