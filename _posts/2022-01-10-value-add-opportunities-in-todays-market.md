@@ -18,7 +18,7 @@ youtube_code: kVAPQvwhZ2Q
 ---
 {% include youtube.html %}
 
-One of the biggest challenges people face in today’s market is that new construction prices are significantly higher than existing home prices due to labor and material shortages. Even though existing home pieces have continued to rise, they’re still much lower than new construction homes.
+One of the biggest challenges people face in today’s market is that new construction prices are significantly higher than existing home prices due to labor and material shortages. Even though existing home prices have continued to rise, they’re still much lower than new construction homes.
 
 Clients like yourself are always looking at opportunities to add value to their own homes or to the properties you’re looking at. In fact, that’s how I ended up getting into the business—I was on the lookout for value-add opportunities. Doing so can provide you with a lot of resources.
 
