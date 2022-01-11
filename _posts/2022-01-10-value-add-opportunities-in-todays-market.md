@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/opportunities-yt.jpg
-youtube_code: xkuCJy_JSM8
+youtube_code: kVAPQvwhZ2Q
 ---
 {% include youtube.html %}
 
