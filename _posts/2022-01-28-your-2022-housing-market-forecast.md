@@ -30,4 +30,4 @@ What’s going to happen in real estate in 2022? How do conditions compare to la
 
 **5\. Transfer of wealth may happen earlier than anticipated.** In the past, people would leave their additional cash, assets, or inheritance upon their passing. Nowadays, people are saying, “Why pass it on later when I can pass it on now?”
 
-If you have any questions or need any help buying or selling a home, don’t hesitate to give us a call or send an email. We’re your market experts, and we can help you navigate the real estate process to get you what you need in the timeframe you want. Looking forward to a prosperous 2022\!
+If you have any questions or need any help buying or selling a home, don’t hesitate to give us a call or send an email. We’re your market experts, and we can help you navigate the real estate process to get you what you need in the timeframe you want. We're looking forward to a prosperous 2022\!
