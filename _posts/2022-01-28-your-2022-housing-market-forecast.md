@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-update-yt-1.jpg
-youtube_code: ifo8x5ekYa4
+youtube_code: OedJWzmWL-s
 ---
 {% include youtube.html %}
 
