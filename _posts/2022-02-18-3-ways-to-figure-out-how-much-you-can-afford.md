@@ -21,7 +21,7 @@ How much home can you afford? Does it make sense to purchase in the current real
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
-0:00 — Introduction to today’s topic
+0:00 — Introduction&nbsp;
 
 0:35 — How to figure out how much home you can afford, No. 1: Debt-to-income ratio (DTI)
 
