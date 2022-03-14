@@ -16,9 +16,9 @@ youtube_code: bCqjjqcbwCI
 
 {% include excerpt.html %}
 
-{% include pullquote.html %}
-
 Have you ever wondered if you should stage your home before you sell? Most real estate experts will tell you that it’s a great idea, but why? Today I want to explain why staging works and how you can use it to get more out of your home sale.&nbsp;
+
+{% include pullquote.html %}
 
 I’m coming to you today from a property that I own, and when I decided I wanted to sell, I knew that some staging was necessary. A lot of people think staging is a big elaborate thing, and while it can be that, you can also opt for smaller changes. For minor staging, the cost will probably run you around $500, but the bigger projects can be thousands of dollars. Given the cost, why is staging worth it?&nbsp;
 
