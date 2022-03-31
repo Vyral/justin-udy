@@ -16,9 +16,7 @@ youtube_code: MRFDD1F_-j0
 
 {% include excerpt.html %}
 
-{% include pullquote.html %}
-
-In a growing market where prices and interest rates are increasing, does it make sense to be a landlord or homeowner? Home prices rose 26.9% last year in Salt Lake County alone. We saw interest rates climb again recently, and they’ll continue to trend upward. Today I’m discussing this topic and sharing a few reasons why it still makes sense to own a property, even in an inflated market.
+In a growing market where prices and interest rates are increasing, does it make sense to be a landlord or homeowner? Home prices rose 26.9% last year in Salt Lake County alone. We saw interest rates climb again recently, and they’ll continue to trend upward. Today I'll discuss that question and and share a few reasons why it still makes sense to own a property, even in an inflated market.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
@@ -36,4 +34,4 @@ In a growing market where prices and interest rates are increasing, does it make
 
 6:25 — Wrapping up today’s topic
 
-I and my team of experts are dedicated to assisting you with buying, selling, and knowing the value of houses. If you have any questions or need assistance, please reach out via phone or on our website. We hope to see you soon.
+My team of experts and I are dedicated to assisting you with buying, selling, and knowing the value of houses. If you have any questions or need assistance, please reach out via phone or on our website. We hope to see you soon.
