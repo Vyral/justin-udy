@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/owning-property-yt.jpg
-youtube_code: MRFDD1F_-j0
+youtube_code: ihIkq2dq21s
 ---
 {% include youtube.html %}
 
