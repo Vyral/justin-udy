@@ -18,9 +18,9 @@ youtube_code: 3hMlc-xYS5A
 
 {% include excerpt.html %}
 
-{% include pullquote.html %}
-
 Why do we buy real estate? What are the reasons to purchase a home, and how should you evaluate those reasons? Today we’re going to answer those questions so that you can make better real estate decisions. First, let’s go over the three reasons why people buy property:
+
+{% include pullquote.html %}
 
 **1\. Owner occupancy.** This is when the owner wants to buy a property either so they can live in it or run a business out of it.&nbsp;
 
