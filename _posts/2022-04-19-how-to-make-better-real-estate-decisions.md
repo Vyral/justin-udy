@@ -36,4 +36,4 @@ Now that we know those three reasons, let’s talk about three things you should
 
 **3\. If it seems too good to be true, it probably is.** I hate that I say this, but it turns out to be correct too often. When you look at these great opportunities, you need to be very thorough, evaluate them properly, and come to the correct decision. This usually means recognizing the situation, taking the most powerful data, and coming up with a result. That’s essentially what an appraiser does.
 
-If you’re looking at properties and have any questions, give us a call or send us an email. We’re here to help you out. If you know anyone who might find value in this post, please send it their way.
+If you’re looking at properties and have any questions, give us a call or send us an email. We’re here to help you. If you know anyone who might find value in this post, please send it their way.
