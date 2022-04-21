@@ -30,10 +30,10 @@ Why do we buy real estate? What are the reasons to purchase a home, and how shou
 
 Now that we know those three reasons, let’s talk about three things you should consider whenever you buy real estate:
 
-**1\. Trash in, trash out.** If you eat junk food, you’ll feel like junk. The same thing applies to real estate. If you’re looking at the wrong values, locations, or information, you’ll get the wrong results. It’s important to make sure that whatever model you use is information, and with it, you should make a decision.
+**1\. Trash in, trash out.** If you eat junk food, you’ll feel like junk. The same thing applies to real estate. If you’re looking at the wrong values, locations, or information, you’ll get the wrong results. It’s important to make sure that whatever model you use has accurate information, and with it, you should make a decision.
 
 **2\. Bad assumptions lead to bad outcomes.** Maybe you think this view is better than most your home should cost more because the neighborhood is great. Your gut is important in decision making, but make sure you rely on the tools, information, and experts at your disposal to assist you and check your assumptions.
 
-**3\. If it seems too good to be true, it probably is.** I hate that I say this, but it turns out to be correct too often. When you look at these great opportunities, you need to be very thorough, evaluate them properly, and come to the correct result. This usually means recognizing the situation, taking the most powerful data, and coming up with a result. That’s essentially what an appraiser does.
+**3\. If it seems too good to be true, it probably is.** I hate that I say this, but it turns out to be correct too often. When you look at these great opportunities, you need to be very thorough, evaluate them properly, and come to the correct decision. This usually means recognizing the situation, taking the most powerful data, and coming up with a result. That’s essentially what an appraiser does.
 
 If you’re looking at properties and have any questions, give us a call or send us an email. We’re here to help you out. If you know anyone who might find value in this post, please send it their way.
