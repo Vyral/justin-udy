@@ -24,7 +24,7 @@ However, interest rates still have a big impact on affordability. Would you rath
 
 {% include pullquote.html %}<br>As the terms of the market change, consumer behavior adjusts, meaning that **prices will have to respond to rising interest rates.** For example, a friend recently listed a client’s home but couldn’t find any interested buyers. It turns out that they had listed the house too high for our new market. When my team took the listing over, we overhauled the marketing and adjusted the price to fit our current situation. After putting the property back on the market, we received eight offers in just 10 days.&nbsp;
 
-This was great; however, these offers came the same weekend as a major rate hike. Of our eight buyers, four called in and said they could unfortunately no longer afford the home. We still had four great offers, so our client was fine, but this situation will become more common.&nbsp;
+This was great; however, these offers came the same weekend as a major rate hike. Four out of our eight buyers called us and said they could no longer afford the home. We still had four great offers, so our client was fine, but this situation will become more common.&nbsp;
 
 If you’re selling in this market, how can you prepare? **I recommend you focus on three things: price, showability, and marketing.** You may have to make adjustments in this market, but there are still plenty of opportunities to get a great deal.&nbsp;
 
