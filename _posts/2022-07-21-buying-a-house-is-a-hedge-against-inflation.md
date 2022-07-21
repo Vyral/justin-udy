@@ -18,6 +18,8 @@ youtube_code: s2xFJcLhQOE
 
 When I was a little boy, pennies were precious. I remember that whenever I found one, I would hide them in the backyard to keep them for a rainy day or tough times. The only problem was that when I searched for them later, I couldn’t find them\! You can imagine how heartbroken I was. It's funny now, but sometimes I feel like we do similar things with our money today. We bury our money somewhere it isn’t doing much or can’t use it later because we don’t know what it’s doing. Housing is totally different.
 
+&nbsp;
+
 {% include pullquote.html %}<br><br>Real estate is one of the best types of assets you can invest in to hedge against inflation because it has intrinsic value—there will always be demand for homes. Additionally, as inflation increases, so does the value of the property you own, and you can charge more rent. Mortgage interest rates are still historically low, so now is a good time to lock in a low rate.
 
 Over time, you’ll also see your mortgage payments decline if there is a period of sustained inflation. This is known as depreciating debt.&nbsp;
