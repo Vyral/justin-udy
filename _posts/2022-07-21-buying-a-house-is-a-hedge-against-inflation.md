@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/hedge-against-inflation-yt.jpeg
-youtube_code: DpjbVkOOZxU
+youtube_code: DZApH1noaqc
 ---
 {% include youtube.html %}
 
