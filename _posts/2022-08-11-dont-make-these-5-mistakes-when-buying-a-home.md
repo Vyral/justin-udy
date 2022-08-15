@@ -19,7 +19,7 @@ youtube_code: 2GPFjttLBeM
 
 {% include excerpt.html %}
 
-The red-hot market has cooled, and now buyers are regaining some negotiation powers. However, some buyers aren’t taking advantage of the market shift and making mistakes that would cost them to lose on getting the best possible deal for their home. I don’t want this to happen to you, so today I’m sharing the top five buyer mistakes you have to avoid.
+The red-hot market has cooled, and now buyers are regaining some negotiation powers. However, some buyers aren’t taking advantage of the market shift and making mistakes that would cost them to lose on getting the best possible deal for their home. I don’t want this to happen to you, so today I’m sharing the top five buyer mistakes you should avoid.
 
 **You can listen to my full explanation in the video above or skip to each topic using the timestamps provided:**
 
@@ -37,4 +37,4 @@ The red-hot market has cooled, and now buyers are regaining some negotiation pow
 
 6:07 — Wrapping up
 
-If you have questions about the best approaches when buying a home in this market or have any real estate concerns, call or email. I’m here to help\!
+If you have questions about the best approaches when buying a home in this market or have any real estate concerns, call or email me. I’m here to help\!
