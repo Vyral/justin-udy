@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don’t Make These 5 Mistakes When Buying a Home
+title: Don’t Make These Mistakes When Buying a Home
 date: 2022-08-11 07:00:00
 tags:
   - Home Buyer Tips
