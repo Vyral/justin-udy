@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-mistakes-yt.jpg
-youtube_code: 2GPFjttLBeM
+youtube_code: UNAm2AB5q7M
 ---
 {% include youtube.html %}
 
