@@ -5,7 +5,7 @@ date: 2022-09-06 05:00:00
 tags:
 excerpt: 'How the five Cs of real estate can help you sell your house for more. '
 enclosure:
-pullquote: 'In a tough market, you need to get creative. '
+pullquote: In a tough market, you need to get creative.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
