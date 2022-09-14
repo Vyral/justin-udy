@@ -4,7 +4,8 @@ title: 5 Steps To Sell Your Home for More
 date: 2022-09-06 05:00:00
 tags:
 excerpt: 'How the five Cs of real estate can help you sell your house for more. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2022/5+Steps+To+Sell+Your+Home+for+More.mp4
 pullquote: In a tough market, you need to get creative.
 enclosure_type: video/mp4
 enclosure_time:
