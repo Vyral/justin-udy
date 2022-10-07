@@ -4,7 +4,8 @@ title: What’s Truly Happening With Foreclosures
 date: 2022-10-06 05:00:00
 tags:
 excerpt: Foreclosures are on the rise—what does this mean for the market?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2022/What%E2%80%99s+Truly+Happening+With+Foreclosures.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
