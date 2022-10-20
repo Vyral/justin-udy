@@ -16,7 +16,7 @@ youtube_code: j2spwpn_QjE
 
 {% include excerpt.html %}
 
-Are you ready for our client appreciation event? It’s here, and you’re invited. This is **our annual harvest fest here at Wheeler Farm** at 6351 South, 900 East. Please put it on your calendar for November 12 between 11 and 1 p.m. We’re doing our pumpkin pie giveaway, and you’ll be able to take it home with you and eat it or freeze it for Thanksgiving.
+Are you ready for our client appreciation event? It’s here, and you’re invited. This is **our annual harvest fest here at Wheeler Farm** at 6351 South, 900 East. Please put it on your calendar for November 12 between 11 a.m. and 1 p.m. We’re doing our pumpkin pie giveaway, and you’ll be able to take it home with you and eat it or freeze it for Thanksgiving.
 
 We’ll be giving away one pie per family. Make sure you register because we want to know how many pies we need in order to ensure it's available for you to pick up. **We’ll also be catering lunch through Chick-Fil-A**—so come hungry.
 
