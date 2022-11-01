@@ -4,7 +4,8 @@ title: Come Join Us At Our Annual Harvest Fest!
 date: 2022-10-19 05:00:00
 tags:
 excerpt: Come join us at our annual client appreciation harvest fest at Wheeler Farm
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2022/Come+Join+Us+At+Our+Annual+Harvest+Fest!.mp4
 pullquote: Bring your family and kids. We want to make sure we see you.
 enclosure_type: video/mp4
 enclosure_time:
