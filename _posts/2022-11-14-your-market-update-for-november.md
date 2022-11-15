@@ -16,7 +16,7 @@ youtube_code: KbjdK2ciTx4
 
 {% include excerpt.html %}
 
-What’s going on in the Utah market? The news can make things sound pretty grim, but the truth is that it’s still a good time for both buyers and sellers. We’ve got all the latest housing numbers to share with you.
+What’s going on in the Utah market? The news can make things sound pretty grim but the truth is that it’s still a good time for both buyers and sellers. We’ve got all the latest housing numbers to share with you.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
