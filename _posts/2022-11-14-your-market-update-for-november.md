@@ -4,7 +4,8 @@ title: Your Market Update for November
 date: 2022-11-14 05:00:00
 tags:
 excerpt: The November numbers are in. Here’s how the market is faring.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2022/Your+Market+Update+for+November.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
