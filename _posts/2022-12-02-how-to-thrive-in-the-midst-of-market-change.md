@@ -22,4 +22,4 @@ To help you be informed and perform well, I will cover the top five things you n
 
 I started in real estate in 2005, and I had a great start, but right after that, the market changed. I understand the struggles of a big market shift, especially when you’re still fairly new. However, I was able to make my business grow, and you can too.&nbsp;
 
-In this class, I want to help people like you understand what’s happening in the market and learn what you need to do. **I can help you figure out your next step so you can have a great 2023.** Register for the event here, and call or email me anytime if you have any questions. I look forward to seeing you there\!
+In this class, I want to help people like you understand what’s happening in the market and learn what you need to do. **I can help you figure out your next step so you can have a great 2023.** Register for the event **[here](http://marketexpertacademy.com/){: target="_blank" rel="noopener"}**, and call or email me anytime if you have any questions. I look forward to seeing you there\!
