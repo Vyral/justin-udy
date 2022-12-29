@@ -9,8 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: BHhfWtltS7g
+youtube_alternate_image: /uploads/first-home-yt.jpg
+youtube_code: PFtKHCPMnvg
 ---
 {% include youtube.html %}
 
