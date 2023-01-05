@@ -4,7 +4,8 @@ title: How To Buy Your First Home
 date: 2022-12-29 05:00:00
 tags:
 excerpt: Buying a home? You should consider these things first.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2022/How+To+Buy+Your+First+Home.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
