@@ -9,8 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/buying-needs-yt.jpg
+youtube_code: LunOD9u6KV4
 ---
 {% include youtube.html %}
 
