@@ -3,7 +3,7 @@ layout: post
 title: 5 Things We’ll See in This Year’s Market
 date: 2023-01-25 05:00:00
 tags:
-excerpt: My five predictions for the 2023 market, based on emerging trends.
+excerpt: My five predictions for the 2023 market based on emerging trends.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
