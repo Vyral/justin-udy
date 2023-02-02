@@ -16,7 +16,7 @@ youtube_code: rvy0j2QaLK8
 
 {% include excerpt.html %}
 
-**[See Market Forecast Document](file:///Users/duke/Downloads/2023%20JUSTIN%20UDY%20Housing%20Forecast%20&#40;1&#41;.pdf){: target="_blank" rel="noopener"}**<br><br>Monster appreciation, double interest rates, and changes in the market—this year has been one of the most tremendous years of change because we saw a market cycle that defied all others. People are asking: Do I buy? Do I sell? Is it time to invest in the market? These are the things we'll talk about today. I’m here with some current information and my predictions, based on market data, for 2023.
+[**See Market Forecast Document**](/uploads/2023-JUSTIN-UDY-Housing-Forecast-&#40;1&#41;.pdf){: target="_blank" rel="noopener"}<br><br>Monster appreciation, double interest rates, and changes in the market—this year has been one of the most tremendous years of change because we saw a market cycle that defied all others. People are asking: Do I buy? Do I sell? Is it time to invest in the market? These are the things we'll talk about today. I’m here with some current information and my predictions, based on market data, for 2023.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video.**
 
