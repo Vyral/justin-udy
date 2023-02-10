@@ -9,8 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: hFpEK93eauc
+youtube_alternate_image: /uploads/core-low-offers-yt.jpg
+youtube_code: 5f2TKDfFqCQ
 ---
 {% include youtube.html %}
 
@@ -24,13 +24,13 @@ In our changing real estate market, low offers are all over the place. If you re
 
 1:06&nbsp; — First, remember to be thankful for the offer in the first place
 
-2:16&nbsp; — A story about how I dealt with a low offer
+2:12&nbsp; — A story about how I dealt with a low offer
 
-2:58&nbsp; — You have to have a good strategy
+2:54&nbsp; — You have to have a good strategy
 
-3:35&nbsp; — Evaluate the offer and make a counter
+3:26&nbsp; — Evaluate the offer and make a counter
 
-4:07&nbsp; — What are your needs and options right now?
+4:01&nbsp; — What are your needs and options right now?
 
 5:27&nbsp; — Make sure you’re collaborating with your agent
 
