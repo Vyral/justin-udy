@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/home-valuation-pt-1-yt.jpg
 youtube_code: xI7tfHNH49g
 ---
 {% include youtube.html %}
