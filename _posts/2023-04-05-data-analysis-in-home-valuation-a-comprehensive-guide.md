@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/justin-udy-ss-template-core.jpg
-youtube_code: vWqunwcGt3k
+youtube_code: 6BTqacQ2FaA
 ---
 {% include youtube.html %}
 
