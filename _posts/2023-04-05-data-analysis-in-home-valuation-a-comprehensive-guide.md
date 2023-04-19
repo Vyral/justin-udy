@@ -3,6 +3,7 @@ layout: post
 title: 'Data Analysis in Home Valuation: A Comprehensive Guide'
 date: 2023-04-05 05:00:00
 tags:
+  - Home Seller Tips
 excerpt: 'This is how you collect and analyze data for a successful home valuation. '
 enclosure:
 pullquote:
@@ -10,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/justin-udy-ss-template-core.jpg
-youtube_code: 6BTqacQ2FaA
+youtube_code: Ebsdi9c-2hE
 ---
 {% include youtube.html %}
 
