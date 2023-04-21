@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Critical Data for a successful home evaluation
+title: Critical Data for a Successful Home Evaluation
 date: 2023-04-05 05:00:00
 tags:
   - Home Seller Tips
