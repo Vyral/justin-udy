@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Data Analysis in Home Valuation: A Comprehensive Guide'
+title: Critical Data for a successful home evaluation
 date: 2023-04-05 05:00:00
 tags:
   - Home Seller Tips
