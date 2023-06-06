@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/justin-udy-ss-template-core-1.jpg
+youtube_alternate_image: /uploads/2-2023-06-06t231233-349.jpg
 youtube_code: pvOWyqe9urU
 ---
 {% include youtube.html %}
