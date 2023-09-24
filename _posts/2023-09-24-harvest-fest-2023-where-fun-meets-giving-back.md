@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harvest Fest 2023: Where Fun Meets Giving Back!'
-date:
+date: 2023-09-23 05:00:00
 excerpt: Make sure to attend our annual Harvest Fest for a fun and meaningful time!
 enclosure:
 pullquote:
