@@ -19,8 +19,6 @@ youtube_code: vaNdGmePOHk
 
 We're also excited to announce that Chick-fil-A will be catering the event, and we have a fun lineup of activities planned for you, including a coloring contest and face painting. For those who prefer something other than Chick-fil-A, we'll also have a hot chocolate bar. Additionally, there will be games and prizes for everyone to enjoy, and each family will receive a pumpkin pie to take home for Thanksgiving.
 
-{% include pullquote.html %}
-
 We want to say thank you to you, whether we've had the pleasure of working with you in the past, currently, or plan to do so in the future. We truly value your support and friendship.
 
 **To ensure we have everything ready for you, please [RSVP today using this link](http://justinudyevents.com/){: target="_blank" rel="noopener"} or contact our team directly**. We are more than happy to assist you with registration. Visit **[justinudyevents.com](http://justinudyevents.com/){: target="_blank" rel="noopener"}** for more details.
