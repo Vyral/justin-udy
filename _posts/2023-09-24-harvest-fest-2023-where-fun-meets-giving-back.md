@@ -23,6 +23,6 @@ We're also excited to announce that Chick-fil-A will be catering the event, and 
 
 We want to say thank you to you, whether we've had the pleasure of working with you in the past, currently, or plan to do so in the future. We truly value your support and friendship.
 
-**To ensure we have everything ready for you, please RSVP today using this link or contact our team directly**. We are more than happy to assist you with registration. Visit **[justinudyevents.com](http://justinudyevents.com/){: target="_blank" rel="noopener"}** for more details.
+**To ensure we have everything ready for you, please [RSVP today using this link](http://justinudyevents.com/){: target="_blank" rel="noopener"} or contact our team directly**. We are more than happy to assist you with registration. Visit **[justinudyevents.com](http://justinudyevents.com/){: target="_blank" rel="noopener"}** for more details.
 
 We're eagerly anticipating your presence at the Harvest Fest and look forward to connecting with you then! As always, for any of your real estate concerns, don’t hesitate to call or email us. We’re here to help.
