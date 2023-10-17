@@ -42,7 +42,8 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: http://www.saltlakehomesearch.com/
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/001.jpg
+  - CTA_image_path: >-
+      /uploads/6130-murdoch-woods-pl-holladay-print-002-040-exterior-4200x2805-300dpi.jpg
     CTA_title: What’s Your Salt Lake City Home Worth?
     CTA_text: >-
       Are you thinking of selling your home or interested in learning about home
