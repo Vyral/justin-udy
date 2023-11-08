@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Market Correction: 3 factors influencing homes'
+title: 'Market Correction: 3 Factors Influencing Homes'
 date: 2023-11-08 05:00:00
 excerpt: Three common reasons homeowners struggle to sell and how to fix it.
 enclosure:
