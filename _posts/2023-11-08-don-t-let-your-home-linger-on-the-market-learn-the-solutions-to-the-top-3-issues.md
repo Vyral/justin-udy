@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Don’t Let Your Home Linger on the Market—Learn the Solutions to the Top 3
-  Issues
+title: 'Market Correction: 3 factors influencing homes'
 date: 2023-11-08 05:00:00
 excerpt: Three common reasons homeowners struggle to sell and how to fix it.
 enclosure:
