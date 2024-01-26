@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Market Update for January 2024
+title: Housing Market Update for January 2024
 date: 2024-01-25 05:00:00
 excerpt: The most recent developments in the January real estate market.
 enclosure:
