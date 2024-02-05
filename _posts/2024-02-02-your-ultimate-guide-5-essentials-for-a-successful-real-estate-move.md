@@ -15,7 +15,7 @@ youtube_code: _bFEKEZqZMk
 
 {% include excerpt.html %}
 
-If you're thinking of making a move, whether it's out of state, or within Salt Lake City, or any other location, there are key considerations to ensure a successful transition. Drawing from my extensive experience in real estate spanning almost two decades, today I'm sharing valuable insights into the top five factors to assess when entering a new market.
+If you're thinking of making a move, whether it's out of state, within Salt Lake City, or to any other location, there are key considerations to ensure a successful transition. Drawing from my extensive experience in real estate spanning almost two decades, today I'm sharing valuable insights into the top five factors to assess when entering a new market.
 
 **Feel free to watch the full video or use these timestamps to browse specific topics at your leisure:**
 
