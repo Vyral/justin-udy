@@ -39,4 +39,4 @@ The Salt Lake County housing market is experiencing dynamic changes, with signif
 
 6:06 — Wrapping up
 
-For a more detailed analysis and to stay updated with the latest trends and opportunities in Salt Lake County's real estate market, reach out for a copy of our economic report. We're here to help you make informed decisions, whether you're buying, selling, or investing.
+For a more detailed analysis and to stay updated with the latest trends and opportunities in Salt Lake County's real estate market, send us a message for a copy of our economic report. We're here to help you make informed decisions, whether you're buying, selling, or investing.
