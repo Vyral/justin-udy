@@ -33,4 +33,4 @@ Should you stage your home? If you’re looking to get the most money possible f
 
 5:04 — Wrapping things up
 
-If you have questions about staging or anything else, please call or email me. I’d love to hear from you.<br>
+If you have questions about staging or anything else, please call or email me. I’d love to hear from you.
