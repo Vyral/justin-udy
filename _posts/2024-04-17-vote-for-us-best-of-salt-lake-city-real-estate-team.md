@@ -15,6 +15,8 @@ youtube_code: WFpZPBV0Nag
 ---
 {% include youtube.html %}
 
+[**Vote here**](https://bestofslc.com/){: target="_blank" rel="noopener"}
+
 We're thrilled to announce that we've been nominated for the Best of Salt Lake Real Estate Team award! This nomination means so much to us, and we're incredibly grateful for the opportunity to potentially be recognized as the top real estate team in Salt Lake City.
 
 {% include pullquote.html %}
