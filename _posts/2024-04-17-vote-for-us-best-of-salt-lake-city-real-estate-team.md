@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-2-5.jpg
-youtube_code:
+youtube_code: WFpZPBV0Nag
 ---
 {% include youtube.html %}
 
@@ -21,7 +21,7 @@ We're thrilled to announce that we've been nominated for the Best of Salt Lake R
 
 Voting is easy, but the window to support us is limited, so we urge you to act fast:
 
-**Visit the Voting Site:** Go to [**www.bestofslc.com**](www.bestofslc.com){: target="_blank" rel="noopener"}
+**Visit the Voting Site:** Go to [**www.bestofslc.com**](https://bestofslc.com/){: target="_blank" rel="noopener"}
 
 **Navigate to Vote:** Click on the 'vote' button to begin the process.
 
