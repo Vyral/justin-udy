@@ -17,7 +17,7 @@ Do you need to pay closing costs? Are closing costs necessary? Today, we're goin
 
 We've seen more questions and variations in closing costs than ever before. For instance, one request was for $35,000 in closing costs. Sounds enormous, right? Well, let's break it down and understand why it's important to be informed about these costs.
 
-Closing costs are an important step of finalizing a property purchase. To help you understand this, here’s an outline of what closing costs can cover and how they are applied. The seller's contribution to closing costs is a key element. It specifies the amount the seller agrees to contribute, which can be applied in several ways at the buyer's discretion:
+Closing costs are an important step in finalizing a property purchase. To help you understand this, here’s an outline of what closing costs can cover and how they are applied. The seller's contribution to closing costs is a key element. It specifies the amount the seller agrees to contribute, which can be applied in several ways at the buyer's discretion:
 
 **1\. Permanent or Temporary Reduction.** A permanent Reduction means using the seller's contribution to lower the mortgage interest rate for the life of the loan. For example, reducing a 7% interest rate to 6.25% on a 30-year fixed loan. On the other hand, the Temporary Reduction, also known as a mortgage buy-down, temporarily lowers the interest rate. For instance, you might have a 5% rate in the first year, 6% in the second year, and then it reverts to the original 7% rate.
 
@@ -25,7 +25,7 @@ Closing costs are an important step of finalizing a property purchase. To help y
 
 **2 Mortgage Financing Costs.** These include costs such as points charged by the lender. For example, on a $500,000 loan, if the lender charges two points, that’s $10,000. Loan officers typically earn from both upfront fees and the interest rate, so comparing rates on the same day from different lenders can be beneficial.
 
-**3\. Closing Costs.** This category includes a variety of expenses such as appraisals and lender fees. Different loans and lenders may have specific requirements and fees that fall under closing costs.
+**3\. Closing Costs.** This category includes a variety of expenses, such as appraisals and lender fees. Different loans and lenders may have specific requirements and fees that fall under closing costs.
 
 **4\. Prepaid and Escrows.** These are funds held for future payments like property taxes and insurance. While not as common, they can be part of the closing cost agreement if the lender permits it.
 
