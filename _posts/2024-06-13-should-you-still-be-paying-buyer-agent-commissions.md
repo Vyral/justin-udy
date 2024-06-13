@@ -29,7 +29,7 @@ Are you wondering if you should still be paying buyer agent commissions when sel
 
 2:40 — Consider what is competitive in the market
 
-3:42 — Nobody’s gonna sell your home if they’re not compensated
+3:42 — Nobody will sell your home if they’re not compensated
 
 4:20 — No commission comes without risks
 
