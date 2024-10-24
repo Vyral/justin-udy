@@ -19,7 +19,7 @@ youtube_code: Hoq41UemI6c
 
 It’s official: Cancelation rates are on the rise. In a lot of markets, around 30% of real estate transactions that go to escrow end up canceling. Since listings with canceled deals often end up selling for less money, what can you do to minimize the chances of your buyer flaking out? As an experienced expert, I’ve dealt with uncertain buyers before. That’s why today, I’m sharing why buyers are leaving deals in this market and explaining what you can do to stop a cancellation before it happens.
 
-**1\. Buyers remorse.** The market is definitely slower than it used to be, but that doesn’t mean buyers aren’t feeling pressure to make decisions quickly. Due to market competition, economic news, the election, and a ton of other issues, a lot of buyers want to finalize a deal ASAP. As a result, many of them jump into deals before they’re ready. To prevent this, get your agent to vet potential buyers as well as their agents. If they’re pre-approved and have a strong motivation for moving, they’ll be much more likely to follow through on your home.
+**1\. Buyer's remorse.** The market is definitely slower than it used to be, but that doesn’t mean buyers aren’t feeling pressure to make decisions quickly. Due to market competition, economic news, the election, and a ton of other issues, a lot of buyers want to finalize a deal ASAP. As a result, many of them jump into deals before they’re ready. To prevent this, get your agent to vet potential buyers as well as their agents. If they’re pre-approved and have a strong motivation for moving, they’ll be much more likely to follow through on your home.
 
 {% include pullquote.html %}
 
