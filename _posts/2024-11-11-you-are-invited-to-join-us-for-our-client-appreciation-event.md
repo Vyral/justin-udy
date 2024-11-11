@@ -15,4 +15,4 @@ youtube_code: F_TOCzQv5iM
 
 {% include excerpt.html %}
 
-We're excited to invite you to our annual Client Appreciation Event. <br>Please join us for Harvest Fest at Wheeler Farm. Come and enjoy!<br><br>**Where:** Wheeler Historic Farm<br>6351 South 900 East Murray, Utah 84121 United States<br><br>**When:** Saturday, November 16 · 11am - 1pm MST
+We're excited to invite you to our annual Client Appreciation Event. <br>Please join us for Harvest Fest at Wheeler Farm. Come and enjoy!<br><br>[**Reserve a spot here.**](https://justinudyevents.com/){: target="_blank" rel="noopener"}<br><br>**Where:** Wheeler Historic Farm<br>6351 South 900 East Murray, Utah 84121 United States<br><br>**When:** Saturday, November 16 · 11am - 1pm MST
