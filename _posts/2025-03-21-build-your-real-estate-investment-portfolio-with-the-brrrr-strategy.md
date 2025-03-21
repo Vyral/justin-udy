@@ -20,7 +20,7 @@ youtube_code: 5lSVnqm7_Os
 
 {% include excerpt.html %}
 
-The real estate market is filled with opportunities, especially for those looking to build wealth over time. One of the most effective ways to invest in real estate and grow your portfolio is through the **BRRRR strategy**. This strategy is a proven way to earn income and reinvest your capital into more properties. Here's what it is all about:
+The real estate market is filled with opportunities, especially for those looking to build wealth over time. One of the most effective ways to invest in real estate and grow your portfolio is through the **BRRRR strategy**. This strategy is a proven way to earn income and reinvest your capital into more properties. Here’s what it is all about:
 
 **What is the BRRRR strategy?** The acronym stands for *Buy, Renovate, Rent, Refinance, and Repeat*. It’s a way to make money from real estate by following these steps:
 
@@ -41,4 +41,4 @@ The main unit was rented for $2,100 per month, while a separate unit was for $1,
 
 The key benefit of this strategy is that you don’t need a large amount of upfront capital each time. As long as you can refinance and recover the money you put in, you can continue growing your portfolio with the same initial investment.
 
-You don’t need to wait for the "perfect" time to buy or invest in real estate. The market offers many opportunities, and the BRRRR Strategy is a reliable method to take advantage of them. Whether you’re using it or exploring other financing options, the important thing is to make educated and calculated actions.<br><br>**If you’re unsure where to start or want more guidance, you can call or text me at 801-285-0521 or email me at** [**Justin@JustinUdy.com**](Justin@JustinUdy.com){: target="_blank" rel="noopener"}. I can walk you through every step of the process, from finding the right property to managing your investment and refinancing.
+You don’t need to wait for the “perfect” time to buy or invest in real estate. The market offers many opportunities, and the BRRRR Strategy is a reliable method to take advantage of them. Whether you’re using it or exploring other financing options, the important thing is to make educated and calculated actions.<br><br>**If you’re unsure where to start or want more guidance, you can call or text me at 801-285-0521 or email me at** [**Justin@JustinUdy.com**](Justin@JustinUdy.com){: target="_blank" rel="noopener"}. I can walk you through every step of the process, from finding the right property to managing your investment and refinancing.
