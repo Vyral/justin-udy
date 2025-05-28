@@ -15,9 +15,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/justin-udy-ss-template-core-4.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
 
 Let’s face it—selling your home in Spring 2025 isn’t quite like it used to be. Interest rates are still elevated, buyers are pickier, and homes are sitting on the market longer than they did during the peak frenzy of 2021 to 2022. That doesn’t mean you can’t sell quickly—it just means you have to be more strategic.
 
