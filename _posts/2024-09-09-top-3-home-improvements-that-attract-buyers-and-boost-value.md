@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 3 Home Improvements That Attract Buyers and Boost Value
-date: 2024-09-09 05:00:00
+date: 2025-06-24 05:00:00
 excerpt: >-
   Discover why choosing suitable projects and contractors is crucial in home
   selling.
@@ -10,7 +10,7 @@ pullquote: Every home has its story; we're here to help you tell yours.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-2-7.jpg
+youtube_alternate_image: /uploads/2-3-1.jpg
 youtube_code: pfthYq58NaU
 ---
 {% include youtube.html %}
