@@ -21,7 +21,7 @@ Preparing your home for sale is one of the most important steps you can take to 
 
 Here’s the approach I take to make sure every property we list is ready to perform:
 
-**1\. Make the property season-ready**. Every home should be tailored to the time of year it's listed. If it's summer, set the deck up with chairs and create an inviting outdoor space. If it's winter, clear out any summer items and highlight the cozy indoor features. You want buyers to see themselves enjoying the property in the current season.
+**1\. Make the property season-ready**. Every home should be tailored to the time of year it’s listed. If it’s summer, set the deck up with chairs and create an inviting outdoor space. If it’s winter, clear out any summer items and highlight the cozy indoor features. You want buyers to see themselves enjoying the property in the current season.
 
 Noise and distractions matter as well. If you live near a freeway or have noisy neighbors, take steps to minimize sound. Upgrading windows or adding a solid interior door between units can make a real impact. You want people to focus on the home, not the background noise
 
@@ -35,4 +35,4 @@ If the home is vacant, keep the temperature comfortable during showings. You don
 
 Statistics show that over 60% of buyers are willing to pay more for a move-in ready home. This means fresh paint, updated finishes, neutral décor, and a well-maintained appearance throughout. Stage the home with furniture that highlights the best features, and store away anything that distracts from the layout or makes the space feel smaller.
 
-Selling a home is about more than putting it on the market. It's about creating a space that feels right, looks great, and shows buyers exactly why it’s worth their attention. If you’re unsure where to begin or want help getting your home market-ready, I’m here to help. You can call me at **<u>801-285-0521</u>** or send me an email at [**Justin@JustinUdy.com**](mailto:Justin@JustinUdy.com). I look forward to hearing from you!
+Selling a home is about more than putting it on the market. It’s about creating a space that feels right, looks great, and shows buyers exactly why it’s worth their attention. If you’re unsure where to begin or want help getting your home market-ready, I’m here to help. You can call me at **<u>801-285-0521</u>** or send me an email at [**Justin@JustinUdy.com**](mailto:Justin@JustinUdy.com). I look forward to hearing from you!
