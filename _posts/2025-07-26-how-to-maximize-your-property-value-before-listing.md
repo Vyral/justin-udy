@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/how-to-maximize-your-property-value-before-listing-2.jpg
-youtube_code: 7aHxgm6P-1Y
+youtube_code: eMtuUshvZOg
 ---
 {% include youtube.html %}
 
