@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/wasatch-front-august-2025-real-estate-market-update-2.jpg
-youtube_code: l1prib867Wc
+youtube_code: Ojy-S-zNPnM
 ---
 {% include youtube.html %}
 
