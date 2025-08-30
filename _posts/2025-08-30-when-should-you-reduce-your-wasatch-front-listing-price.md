@@ -19,7 +19,7 @@ youtube_code: cUPAnDF0LK4
 
 {% include excerpt.html %}
 
-Sellers hesitate to lower their price because an appraiser gave them a specific value, a neighbor sold at a higher price, or they have invested heavily in improvements. Deciding whether a price cut is needed requires a close look at the data and understanding how the market is moving. Here's everything you need to consider:
+Sellers hesitate to lower their price because an appraiser gave them a specific value, a neighbor sold at a higher price, or they have invested heavily in improvements. Deciding whether a price cut is needed requires a close look at the data and understanding how the market is moving. Here’s everything you need to consider:
 
 **1\. Examine the inventory.** The first step is to examine inventory. In the Wasatch Front, active listings are up about 30% compared to last year. In some areas, inventory is up 70%. This means more options for buyers and more competition for sellers. The market today is not the same as it was a year ago, so both sides need to adjust expectations.
 
