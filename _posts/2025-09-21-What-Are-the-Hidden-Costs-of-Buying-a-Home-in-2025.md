@@ -30,13 +30,13 @@ The good news is your lender can estimate these for you ahead of time, so you kn
 
 {% include pullquote.html %}
 
-**2\. Prepaids and escrow accounts.** Lenders typically require you to prepay several months’ worth of homeowners' insurance and property taxes before closing. This isn't optional and often isn't included in your “down payment” estimate. Depending on where you live, this could mean thousands upfront. In high-risk areas, like flood zones, insurance costs can be even higher.
+**2\. Prepaids and escrow accounts.** Lenders typically require you to prepay several months’ worth of homeowners’ insurance and property taxes before closing. This isn’t optional and often isn’t included in your “down payment” estimate. Depending on where you live, this could mean thousands upfront. In high-risk areas, like flood zones, insurance costs can be even higher.
 
 **3\. Inspections and move-in expenses.** Home inspections are essential but come with costs. A general inspection can range from $300 to $500, depending on factors like location, size, and age of the house. Specialized tests, like mold or radon, cost more. Then there are repair costs, pest treatments, and possibly appliance replacements. Don’t forget move-in expenses like blinds, new locks, paint, or landscaping, which can add another few thousand dollars.
 
 **4\. HOA fees and one-time community charges.** If your new home is in a homeowners association (HOA), don’t assume the monthly dues are the only costs. Many HOAs charge one-time fees at closing, such as transfer fees or initiation fees. The average monthly HOA fee in the U.S. is $291 and is non-negotiable. To avoid surprises at closing, request a full breakdown of HOA financial obligations before making an offer.
 
-**5\. Utility setups and hidden service deposits.** It’s easy to overlook utility setup costs when you're focused on buying, but they can add up quickly. Many providers require deposits, especially if you're moving from out of state or have a limited credit history. These deposits for electric, water, gas, internet, and trash service can total several hundred dollars. You might also need to prepay your first month of service, along with one-time fees for mailbox keys or local permits.
+**5\. Utility setups and hidden service deposits.** It’s easy to overlook utility setup costs when you’re focused on buying, but they can add up quickly. Many providers require deposits, especially if you’re moving from out of state or have a limited credit history. These deposits for electric, water, gas, internet, and trash service can total several hundred dollars. You might also need to prepay your first month of service, along with one-time fees for mailbox keys or local permits.
 
 **6\. Furnishing and setup.** Once you’ve paid closing costs, inspections, movers, and utilities, there’s still one more thing: furnishing your new home. Whether it’s a modest condo or a large house, it’s an expense you’ll want to budget for. I’ve had clients move into large properties and quickly realize how costly it is to furnish all that space. But even smaller homes require basics like furniture, appliances, and décor.
 
