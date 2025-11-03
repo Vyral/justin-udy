@@ -17,7 +17,7 @@ youtube_code: VBUzJJAYF0s
 
 {% include excerpt.html %}
 
-What better way to celebrate fall than by gathering with the people who’ve helped make our journey possible? For nearly a decade, our Annual Harvest Fest has been a cherished tradition, giving us the chance to say thank you and enjoy time together.
+[**RSVP here**](https://justinudyevents.com/){: target="_blank" rel="noopener"}<br><br>What better way to celebrate fall than by gathering with the people who’ve helped make our journey possible? For nearly a decade, our Annual Harvest Fest has been a cherished tradition, giving us the chance to say thank you and enjoy time together.
 
 Join us for this year’s **Harvest Fest on Friday, November 8th, from 11:00 a.m. to 1:00 p.m. at Wheeler Farm.** We’ve planned plenty of fun activities for the whole family to enjoy:
 
