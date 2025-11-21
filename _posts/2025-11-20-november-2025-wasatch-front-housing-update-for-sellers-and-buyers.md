@@ -25,7 +25,6 @@ Homes are selling every week, yet others stay on the market with little activity
 **What the data shows.** Weekly market tracking along the Wasatch Front reveals clear shifts from last year.
 
 * **Inventory is up.** As of today, there are about 25% more homes on the market than this time last year, and it has stayed between 20% and 30% higher for roughly the last 60 days. Days on market have also increased. The average now runs at 60 days.
-
 * **Interest rates add pressure.** They have moved between 6% and 6.5% and are currently around 6.25%. Buyers know how that affects their payment, which shapes what they are willing to consider.
 
 **What’s causing homes to sit?** More homes on the market means buyers have more options. Higher interest rates mean they are careful with their monthly payment. Because of this, overpriced homes are being skipped. Even when a home is a buyer’s favorite, they walk away if the price does not reflect today’s market conditions.
@@ -40,4 +39,4 @@ Buyers are informed, understand their choices, and avoid properties priced based
 
 The property was well priced, the value was clear, and the transaction moved forward. Both the buyer and seller were pleased with the outcome.
 
-**The market today is segmented.** Price, presentation, and negotiation matter more than anything. Hundreds, even thousands, of homes are selling, but not every home listed will make it to the finish line. The well-priced ones that look right and meet today’s standards are getting attention.<br><br>If you are thinking about buying or selling, now is the time to review the right steps for this market. Just reach out. You can call me at ** ** [**(801) 285-0521**](tel:&#40;801&#41;%20285-0521) or email me at [**Justin@JustinUdy.com**](mailto:Justin@JustinUdy.com). Let’s go over the details so you can make the most of today’s opportunities.
+**The market today is segmented.** Price, presentation, and negotiation matter more than anything. Hundreds, even thousands, of homes are selling, but not every home listed will make it to the finish line. The well-priced ones that look right and meet today’s standards are getting attention.<br><br>If you are thinking about buying or selling, now is the time to review the right steps for this market. Just reach out. You can call me at [**(801) 285-0521**](tel:&#40;801&#41;%20285-0521) or email me at [**Justin@JustinUdy.com**](mailto:Justin@JustinUdy.com). Let’s go over the details so you can make the most of today’s opportunities.
