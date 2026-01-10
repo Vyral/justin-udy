@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/how-local-market-data-affects-your-salt-lake-city-home-2.jpg
-youtube_code: KaTcFW_-iY
+youtube_code: 8KaTcFW_-iY
 ---
 {% include youtube.html %}
 
