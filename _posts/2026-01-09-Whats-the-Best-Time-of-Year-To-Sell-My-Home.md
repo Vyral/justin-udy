@@ -15,10 +15,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/what-is-the-best-time-of-year-to-sell-my-home.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 Every year, homeowners ask me the same question: “Do I really need to wait until spring to get the best price for my home?” By 2026, that answer has changed more than you might think.
 
 **How the housing market evolved throughout the years.** Back in 2021 and 2022, timing didn’t matter much; homes were selling in days. Fast forward to 2024 and 2025, and buyers were more focused on interest rates and affordability.
