@@ -35,11 +35,11 @@ According to the National Association of Realtors, when interest rates drop by a
 
 In simple terms, lower rates are giving more buyers the ability to participate.
 
-## **More inventory is coming.** Another important factor is the number of sellers preparing to re-enter the market. Many properties came off the market in the fall, when activity slowed. Now, there have been more pre-spring calls from sellers getting ready to list than seen in over a decade.
+**More inventory is coming.** Another important factor is the number of sellers preparing to re-enter the market. Many properties came off the market in the fall, when activity slowed. Now, there have been more pre-spring calls from sellers getting ready to list than seen in over a decade.
 
 Inventory, which is already up 13%, is expected to expand further this spring. Buyers should see more options, while sellers will face more competition.
 
-## **How homes are selling faster.** Although the average days on market is around 70 days, that number reflects average pricing and average marketing. Homes that are priced right, in strong condition, and marketed effectively are selling much faster, typically within 14 to 21 days.
+**How homes are selling faster.** Although the average days on market is around 70 days, that number reflects average pricing and average marketing. Homes that are priced right, in strong condition, and marketed effectively are selling much faster, typically within 14 to 21 days.
 
 In recent weeks, properly positioned properties have started receiving multiple offers again. However, three clear criteria must be met:
 
