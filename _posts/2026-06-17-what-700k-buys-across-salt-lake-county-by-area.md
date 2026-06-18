@@ -3,7 +3,7 @@ layout: post
 title: What $700K Buys Across Salt Lake County by Area
 date: 2026-06-17 05:00:00
 excerpt: >-
-  Three Salt Lake County properties, one price, completely different futures. I
+  Three Salt Lake County properties, one price, completely different features. I
   break down which one fits which buyer.
 enclosure:
 pullquote: >-
