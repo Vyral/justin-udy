@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/the-100k-mistake-home-sellers-keep-making-2.jpg
-youtube_code: YosW3V4ha2k
+youtube_code: YjuNukWl2Ng
 ---
 {% include youtube.html %}
 
