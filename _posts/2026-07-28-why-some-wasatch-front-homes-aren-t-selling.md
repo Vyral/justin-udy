@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Some Wasatch Front Homes Aren't Selling
+title: Salt Lake County Just Hit a New Housing Record... Here's Why It Matters.
 date: 2026-07-28 05:00:00
 excerpt: >-
   See how prices, inventory, and micro-neighborhoods are shifting across the
