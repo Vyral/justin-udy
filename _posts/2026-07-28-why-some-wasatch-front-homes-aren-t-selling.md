@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/why-some-wasatch-front-homes-aren-t-selling-2.jpg
+youtube_alternate_image: /uploads/why-some-wasatch-front-homes-aren-t-selling-2-1.jpg
 youtube_code: Q95j6xCBmIY
 ---
 {% include youtube.html %}
