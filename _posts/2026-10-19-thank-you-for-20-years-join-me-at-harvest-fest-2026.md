@@ -16,6 +16,8 @@ youtube_code: 2BRTPasgw1c
 
 {% include excerpt.html %}
 
+[**RSVP**](https://justinudyevents.com/){: target="_blank" rel="noopener"}
+
 When I started in real estate 20 years ago, many of you were raising young kids. Today, some of those kids are having kids of their own, and that history deserves a real thank-you.
 
 **Harvest Fest, my client appreciation event, is how I say it in person.** The celebration takes place Saturday, October 24, from 11 a.m. to 1 p.m. at Wheeler Farm here in Murray.
