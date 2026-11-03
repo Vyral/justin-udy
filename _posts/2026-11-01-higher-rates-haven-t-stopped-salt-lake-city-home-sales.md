@@ -30,7 +30,7 @@ When I’ve built a matrix on this in the past, that payment difference on a $50
 
 **Prepared sellers have the advantage.** On the seller side, you have a real advantage because most sellers aren’t [preparing, pricing, or marketing](https://utahmarketnews.com/why-some-wasatch-front-homes-aren-t-selling.html) their homes. Our listings stand out and draw not only offers but multiple offers, and it comes down to how we get them ready.
 
-**Preparation makes a home show-ready.** Every listing needs to be white-glove clean, and any[<u>maintenance or safety items</u>](https://utahmarketnews.com/should-you-make-repairs-before-selling-your-house.html) need to be resolved. We handle outlets that don’t work, lights that are out, and cobwebs on the ceilings. Unfortunately, common sense isn’t common practice in real estate.
+**Preparation makes a home show-ready.** Every listing needs to be white-glove clean, and any [<u>maintenance or safety items</u>](https://utahmarketnews.com/should-you-make-repairs-before-selling-your-house.html) need to be resolved. We handle outlets that don’t work, lights that are out, and cobwebs on the ceilings. Unfortunately, common sense isn’t common practice in real estate.
 
 **Presentation sells the whole picture.** We start with a [staging consultation](https://utahmarketnews.com/5-things-you-can-do-to-stage-your-home.html) and then stage the home, use virtual staging, or stage around what you already have. From there, we show buyers the floor plan, how the home walks, and what the aerial tour looks like.
 
