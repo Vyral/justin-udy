@@ -5,7 +5,7 @@ date: 2026-11-12T05:00:00Z
 excerpt: Appreciation is only one piece of the return, and negotiation, seller
   terms, loan paydown, and income all shape what a property earns over time.
 enclosure:
-pullquote: 'PQ: Market terms are just as important as price.'
+pullquote: Market terms are just as important as price.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
